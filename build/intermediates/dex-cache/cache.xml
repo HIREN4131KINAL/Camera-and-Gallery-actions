@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\TRANETECH PROJECTS\DEMOS\Android-Take-Photo-From-Camera-and-Gallery\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="67cbfd30da7886e59b562efdd0ab45dce94ed06b">
+        <dex dex="D:\TRANETECH PROJECTS\DEMOS\Android-Take-Photo-From-Camera-and-Gallery\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_15d5bf44da52d114300bf53cac4d922f64659687\classes.dex" />
+    </item>
+    <item
+        jar="D:\TRANETECH PROJECTS\DEMOS\Android-Take-Photo-From-Camera-and-Gallery\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\TRANETECH PROJECTS\DEMOS\Android-Take-Photo-From-Camera-and-Gallery\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.1_60f0bcfcd7d740c74021b3ff37fe2d74168edc43\classes.dex" />
+    </item>
+    <item
+        jar="E:\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\TRANETECH PROJECTS\DEMOS\Android-Take-Photo-From-Camera-and-Gallery\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.1_0ca7138ca87fbc78b79444741a34700b9c008be0\classes.dex" />
+    </item>
+    <item
+        jar="D:\TRANETECH PROJECTS\DEMOS\Android-Take-Photo-From-Camera-and-Gallery\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\TRANETECH PROJECTS\DEMOS\Android-Take-Photo-From-Camera-and-Gallery\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.0.1_89333f65415726b817ae9d48add042ee57229f51\classes.dex" />
+    </item>
+    <item
+        jar="D:\TRANETECH PROJECTS\DEMOS\Android-Take-Photo-From-Camera-and-Gallery\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="2397066fb33573d9fa3c3931300ea7e9f7f5d39b">
+        <dex dex="D:\TRANETECH PROJECTS\DEMOS\Android-Take-Photo-From-Camera-and-Gallery\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a3b25c616382f195b356b0e9883d9c169b94552d\classes.dex" />
+    </item>
+    <item
+        jar="D:\TRANETECH PROJECTS\DEMOS\Android-Take-Photo-From-Camera-and-Gallery\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\TRANETECH PROJECTS\DEMOS\Android-Take-Photo-From-Camera-and-Gallery\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.1_22e0df719e83b3cb72bd53a1cc1495ded695bea5\classes.dex" />
+    </item>
+
+</items>
